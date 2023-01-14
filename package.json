@@ -7,6 +7,8 @@
   "scripts": {
     "dev": "nodemon src/server.ts",
     "start": "node build/server.js",
+    "pushdev": "git push -u fraysalback dev",
+    "pushmain": "git push -u fraysalback main",
     "build": "tsc -p ."
   },
   "author": "Dolapo Sokoya",

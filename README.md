@@ -10,7 +10,7 @@
 - inside your terminal run npm run dev to run the app locally on your system
 
 ## To push to live server run npm run build and upload the build folder to the server
-- inside your terminal run npm run build, when the build is complete upload the build folder to the live server.
+- inside your terminal run npm run build, when the build is complete upload the server folder to the live server.
 
 
 ## To create a .env file, follow this steps 
